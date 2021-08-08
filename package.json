@@ -1,5 +1,5 @@
 {
-    "name": "nodejs-frontend-integracao",
+    "name": "reactjs-crud-integrado-com-backend",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
