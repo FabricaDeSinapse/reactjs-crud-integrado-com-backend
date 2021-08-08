@@ -1,0 +1,16 @@
+.header {
+    background: #f96d04;
+    color: #ffffff;
+    padding: 20px;
+}
+
+.header {
+    align-items: center;
+    display: flex;
+    font-size: 28px;
+}
+
+.header a {
+    color: #ffffff;
+    margin: 10px;
+}
